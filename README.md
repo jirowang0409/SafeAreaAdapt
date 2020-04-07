@@ -1,5 +1,4 @@
-# Garena
-Projects in Garena
+# Safe area adapt
 Unity支持版本：Unity 2017.2.1及以后
 Unity制作版本：Unity 2019.3.4f1，导入Device Simulator包，在Unity Editor下也可以看到适配效果。
 Screen.safeArea会返回移动平台安全区的Rect。例如，iPhoneX（2436x1125px）横屏时，Screen.safeArea返回的值为Rect（132，63，2172，1062）。
